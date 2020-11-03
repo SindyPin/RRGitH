@@ -8,8 +8,6 @@ How users can get started with the project? - Downloading the generated results 
 
 Where users can get help with your project? - Through the links shown on the project and/or with me via GitHub collaboration.
 
-How users can get started with the project? - Downloading the generated results.
-
 Who maintains and contributes to the project? - Sindy Licette Piñero.
 
 More info... inside the project...
